@@ -1,2 +1,2 @@
-# greenskeleton-dx.github.io
+# greenskeleton dx
 the definitive green skeleton
