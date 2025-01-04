@@ -1,107 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>green skeleton | games</title>
-    <style>
-        #box {
-            width: 80px;
-            height: 50px;
-            background-color: green;
-            transition: transform 0.3s ease, width 0.3s ease, height
-            0.3s ease;
-            margin: 5px;
-            padding: 5px;
-  			overflow: hidden;
-            float: center;
-            display: inline-block;
-            position: sticky;
-            top: 0;
-            position: -webkit-sticky; /* Safari */
-        }
-        #box_selected {
-            width: 80px;
-            height: 50px;
-            background-color: green;
-            margin: 5px;
-            padding: 5px;
-  			overflow: hidden;
-            float: center;
-            display: inline-block;
-            position: sticky;
-            top: 0;
-            position: -webkit-sticky; /* Safari */
-        }
-        p { 
-      		color: #FFFFFF; 
-      		font-family: "Lucida Console", "Courier New", monospace;
-    	}
-        body {
-            background-color: black;
-            background-image: url("imgs/skeleton_dance.gif");
-        }
-        h1 { 
-            color: #FFFFFF; 
-            font-family: "Lucida Console", "Courier New", monospace;
-        }
-        h2 { 
-            color: #FFFFFF; 
-            font-family: "Lucida Console", "Courier New", monospace;
-        }
-        h3 { 
-            color: #FFFFFF; 
-            font-family: "Lucida Console", "Courier New", monospace;
-        }
-        .game_button {
-            width:450px;
-            margin:auto;
-            display: inline-block;
-        }
-        #box:hover {
-            transform: scale(1.1);
-        }
-    </style>
-</head>
-<body>
-    <center><img src="imgs/logo.gif" alt="GREEN SKELETON RAAWWRRRR"></center>
-<ul>
-<center>
-    <div id="box_selected"; style="background-color: #20421A">
-    <p>GAMES</p>
-    </div>
-    <div id="box">
-    <a href="patches.html"><p>UPDATES</p></a>
-    </div>
-    <div id="box">
-    <a href="links.html"><p>LINKS</p></a>
-    </div>
-</center>
-</ul>
-<center><h1>GAMES</h1></center>
-   <center><h3>probably what u came here for</h3></center> 
-    <center>
-        <div class="game_button">
-            <a href="gamepages/aliensoldier-game.html"><img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_alien_soldier.jpg" width="230" height="327.5" alt=""><h2>Alien Soldier</h2></a>
-        </div>
-        <div class="game_button">
-            <a href="gamepages/mother3-eng-game.html"><img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/Mother3.jpg" width="400" height="255" alt=""><h2>Mother 3</h2></a>
-        </div>
-        <div class="game_button">
-            <a href="gamepages/gimmick-game.html"><img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_gimmick.jpg" width="230" height="327.5" alt=""><h2>Gimmick!</h2></a>
-        </div>
-        <div class="game_button">
-            <a href="gamepages/superfantasyzone-game.html"><img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_fantasy-zone.jpg" width="230" height="327.5" alt=""><h2>Super Fantasy Zone</h2></a>
-        </div>
-        <div class="game_button">
-            <a href="gamepages/chronotrigger-game.html"><img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_chrono_trigger.jpg" width="420" height="306.8" alt=""><h2>Chrono Trigger</h2></a>
-        </div>
-        <div class="game_button">
-            <a href="gamepages/rocketknightadventures-game.html"><img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_rocket-knight-adventures.jpg" width="230" height="327.5" alt=""><h2>Rocket Knight Adventures</h2></a>
-        </div>
-        <div class="game_button">
-            <a href="gamepages/plok-game.html"><img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/Plok!%20(USA).png" width="420" height="306.8" alt=""><h2>Plok!</h2></a>
-        </div>
-    </center>
-</body>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>green skeleton | games</title>
+      <style>
+         #box {
+         width: 80px;
+         height: 50px;
+         background-color: green;
+         transition: transform 0.3s ease, width 0.3s ease, height
+         0.3s ease;
+         margin: 5px;
+         padding: 5px;
+         overflow: hidden;
+         float: center;
+         display: inline-block;
+         position: sticky;
+         top: 0;
+         position: -webkit-sticky; /* Safari */
+         }
+         #box_selected {
+         width: 80px;
+         height: 50px;
+         background-color: green;
+         margin: 5px;
+         padding: 5px;
+         overflow: hidden;
+         float: center;
+         display: inline-block;
+         position: sticky;
+         top: 0;
+         position: -webkit-sticky; /* Safari */
+         }
+         p { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         body {
+         background-color: black;
+         background-image: url("imgs/skeleton_dance.gif");
+         }
+         h1 { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         h2 { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         h3 { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         .game_button {
+         width:450px;
+         margin:auto;
+         display: inline-block;
+         }
+         #box:hover {
+         transform: scale(1.1);
+         }
+      </style>
+   </head>
+   <body>
+      <center><img src="imgs/logo.gif" alt="GREEN SKELETON RAAWWRRRR"></center>
+      <ul>
+         <center>
+            <div id="box_selected"; style="background-color: #20421A">
+               <p>GAMES</p>
+            </div>
+            <div id="box">
+               <a href="patches.html">
+                  <p>UPDATES</p>
+               </a>
+            </div>
+            <div id="box">
+               <a href="links.html">
+                  <p>LINKS</p>
+               </a>
+            </div>
+         </center>
+      </ul>
+      <center>
+         <h1>GAMES</h1>
+      </center>
+      <center>
+         <h3>probably what u came here for</h3>
+      </center>
+      <center>
+         <div class="game_button">
+            <a href="gamepages/aliensoldier-game.html">
+               <img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_alien_soldier.jpg" width="230" height="327.5" alt="">
+               <h2>Alien Soldier</h2>
+            </a>
+         </div>
+         <div class="game_button">
+            <a href="gamepages/mother3-eng-game.html">
+               <img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/Mother3.jpg" width="400" height="255" alt="">
+               <h2>Mother 3</h2>
+            </a>
+         </div>
+         <div class="game_button">
+            <a href="gamepages/gimmick-game.html">
+               <img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_gimmick.jpg" width="230" height="327.5" alt="">
+               <h2>Gimmick!</h2>
+            </a>
+         </div>
+         <div class="game_button">
+            <a href="gamepages/superfantasyzone-game.html">
+               <img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_fantasy-zone.jpg" width="230" height="327.5" alt="">
+               <h2>Super Fantasy Zone</h2>
+            </a>
+         </div>
+         <div class="game_button">
+            <a href="gamepages/chronotrigger-game.html">
+               <img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_chrono_trigger.jpg" width="420" height="306.8" alt="">
+               <h2>Chrono Trigger</h2>
+            </a>
+         </div>
+         <div class="game_button">
+            <a href="gamepages/rocketknightadventures-game.html">
+               <img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/soft_rocket-knight-adventures.jpg" width="230" height="327.5" alt="">
+               <h2>Rocket Knight Adventures</h2>
+            </a>
+         </div>
+         <div class="game_button">
+            <a href="gamepages/plok-game.html">
+               <img src="https://file.garden/Zdko1-gxzVCR-6XW/boxarts/Plok!%20(USA).png" width="420" height="306.8" alt="">
+               <h2>Plok!</h2>
+            </a>
+         </div>
+      </center>
+   </body>
 </html>
