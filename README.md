@@ -1,2 +1,11 @@
 # greenskeleton dx
-the definitive green skeleton
+after many attempts and repositories, this is what i hope to god is the DEFINITIVE green skeleton.
+greenskeleton is a silly little game website where you can
+
+well
+
+play games
+
+game requests are open too! head to the links tab and the google form should be directly embedded!
+
+
