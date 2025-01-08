@@ -14,4 +14,9 @@ flash emulation is handled by [ruffle](https://github.com/ruffle-rs/ruffle)
 | game | system | developer |
 | --- | --- | --- |
 | Alien Soldier | MD | Treasure |
-| Mother 3 | GBA | Nintendo |
+| Mother 3 | GBA | HAL |
+| Gimmick! | Famicom | Sunsoft |
+| Super Fantasy Zone | MD | Sunsoft |
+| Chrono Trigger | SNES | Square |
+| Rocket Knight Adventures | MD | Konami |
+| Plok! | Software Creations | SNES | Software Creations |
