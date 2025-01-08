@@ -19,4 +19,5 @@ flash emulation is handled by [ruffle](https://github.com/ruffle-rs/ruffle)
 | Super Fantasy Zone | MD | Sunsoft |
 | Chrono Trigger | SNES | Square |
 | Rocket Knight Adventures | MD | Konami |
-| Plok! | Software Creations | SNES | Software Creations |
+| Plok! | SNES | Software Creations |
+| Metal Slug | Neo Geo | Nazca Corporation |
