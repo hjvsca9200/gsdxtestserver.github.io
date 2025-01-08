@@ -1,5 +1,5 @@
 # greenskeleton dx
-after many attempts and repositories, this is what i hope to god is the DEFINITIVE green skeleton.
+after many attempts and repositories, this is what i hope to god is the ***DEFINITIVE*** green skeleton.
 greenskeleton is a silly little game website where you can
 
 well
