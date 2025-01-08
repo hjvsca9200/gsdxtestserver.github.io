@@ -13,3 +13,5 @@ flash emulation is handled by [ruffle](https://github.com/ruffle-rs/ruffle)
 ## game credits
 | game | system | developer |
 | --- | --- | --- |
+| Alien Soldier | MD | Treasure |
+| Mother 3 | GBA | Nintendo |
