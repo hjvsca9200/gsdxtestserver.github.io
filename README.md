@@ -9,7 +9,11 @@ play games
 game requests are open too! head to the links tab and the google form should be directly embedded!
 # shoutouts
 retro game emulation is handled by [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
+
 flash emulation is handled by [ruffle](https://github.com/ruffle-rs/ruffle)
+
+***
+
 ## game credits
 | game | system | developer |
 | --- | --- | --- |
