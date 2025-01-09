@@ -18,10 +18,14 @@ flash emulation handled by [ruffle](https://github.com/ruffle-rs/ruffle)
 | game | system | developer |
 | --- | --- | --- |
 | Alien Soldier | MD | Treasure |
-| Mother 3 | GBA | HAL |
+| Mother 3 | GBA | HAL, 1-Up Studio |
 | Gimmick! | Famicom | Sunsoft |
 | Super Fantasy Zone | MD | Sunsoft |
+| Gunstar Heroes | MD | Treasure |
 | Chrono Trigger | SNES | Square |
 | Rocket Knight Adventures | MD | Konami |
 | Plok! | SNES | Software Creations |
 | Metal Slug | Neo Geo | Nazca Corporation |
+| Metal Slug 4 | Neo Geo | SNK, Playmore |
+| Lagrange Point | Famicom | Konami |
+| Spanky's Quest | SNES | Natsume |
