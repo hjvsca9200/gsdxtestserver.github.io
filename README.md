@@ -12,6 +12,8 @@ retro game emulation handled by [EmulatorJS](https://github.com/EmulatorJS/Emula
 
 flash emulation handled by [ruffle](https://github.com/ruffle-rs/ruffle)
 
+Friday Night Funkin' created by [The Funkin' Crew](https://github.com/FunkinCrew/Funkin)
+
 ***
 
 ## game credits
@@ -29,3 +31,4 @@ flash emulation handled by [ruffle](https://github.com/ruffle-rs/ruffle)
 | Metal Slug 4 | Neo Geo | SNK, Playmore |
 | Lagrange Point | Famicom | Konami |
 | Spanky's Quest | SNES | Natsume |
+| Friday Night Funkin' | PC | Funkin' Crew |
