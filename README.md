@@ -26,7 +26,7 @@ Friday Night Funkin' created by [The Funkin' Crew](https://github.com/FunkinCrew
 | Gunstar Heroes | MD | Treasure |
 | Chrono Trigger | SNES | Square |
 | Rocket Knight Adventures | MD | Konami |
-| Alien Hominid | Flash | iunno |
+| Alien Hominid | Flash | Synj Industries, Newgrounds |
 | Plok! | SNES | Software Creations |
 | Metal Slug | Neo Geo | Nazca Corporation |
 | Metal Slug 2 | Neo Geo | SNK |
