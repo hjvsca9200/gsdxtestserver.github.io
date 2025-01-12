@@ -26,9 +26,14 @@ Friday Night Funkin' created by [The Funkin' Crew](https://github.com/FunkinCrew
 | Gunstar Heroes | MD | Treasure |
 | Chrono Trigger | SNES | Square |
 | Rocket Knight Adventures | MD | Konami |
+| Alien Hominid | Flash | iunno |
 | Plok! | SNES | Software Creations |
 | Metal Slug | Neo Geo | Nazca Corporation |
+| Metal Slug 2 | Neo Geo | SNK |
+| Metal Slug X | Neo Geo | SNK |
+| Metal Slug 3 | Neo Geo | SNK |
 | Metal Slug 4 | Neo Geo | SNK, Playmore |
+| Metal Slug 5 | Neo Geo | Noise Factory, Playmore, SNK |
 | Lagrange Point | Famicom | Konami |
 | Spanky's Quest | SNES | Natsume |
 | Friday Night Funkin' | PC | Funkin' Crew |
