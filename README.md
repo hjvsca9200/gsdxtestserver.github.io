@@ -37,3 +37,7 @@ Friday Night Funkin' created by [The Funkin' Crew](https://github.com/FunkinCrew
 | Lagrange Point | Famicom | Konami |
 | Spanky's Quest | SNES | Natsume |
 | Friday Night Funkin' | PC | Funkin' Crew |
+
+# notes
+if anybody encounters any issues with any games or website aspects, please report to the issue tab on this repo!!
+any information (your OS, the game, what tab it's in) would be super helpful too, so please provide those along with your report :]
