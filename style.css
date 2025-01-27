@@ -1,0 +1,73 @@
+#box {
+         width: 80px;
+         height: 50px;
+         background-color: green;
+         transition: transform 0.3s ease, width 0.3s ease, height
+         0.3s ease;
+         margin: 5px;
+         padding: 5px;
+         overflow: hidden;
+         float: center;
+         display: inline-block;
+         position: sticky;
+         top: 0;
+         position: -webkit-sticky; /* Safari */
+         }
+         #box_selected {
+         width: 80px;
+         height: 50px;
+         background-color: green;
+         margin: 5px;
+         padding: 5px;
+         overflow: hidden;
+         float: center;
+         display: inline-block;
+         position: sticky;
+         top: 0;
+         position: -webkit-sticky; /* Safari */
+         }
+         p { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         body {
+         background-color: black;
+         background-image: url("imgs/skeleton_dance.gif");
+         }
+         h1 { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         h2 { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         h3 { 
+         color: #FFFFFF; 
+         font-family: "Lucida Console", "Courier New", monospace;
+         }
+         .game_button {
+         width:450px;
+         margin:auto;
+         display: inline-block;
+         }
+         #box:hover {
+         transform: scale(1.1);
+         }
+         .filter_tag {
+         display: flex;
+         margin: 5px;
+         padding: 5px;
+         overflow: hidden;
+         float: center;
+         display: inline-block;
+         position: sticky;
+         top: 0;
+         background-color: green;
+         }
+         .filter_tag button {
+         background-color: green;
+         }
+         .hidden {
+         display: none;
+         }
