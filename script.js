@@ -1,6 +1,6 @@
 var swfobject = {};
-const buttons = document.querySelectorAll('.filter-buttons button');
-const items = document.querySelectorAll('.item');
+const buttons = document.querySelectorAll('.filter_tags button');
+const items = document.querySelectorAll('.game_button');
 
 swfobject.embedSWF = function(url, cont, width, height){
     var ruffle = window.RufflePlayer.newest(),
